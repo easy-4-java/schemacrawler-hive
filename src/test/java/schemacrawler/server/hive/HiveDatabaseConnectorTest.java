@@ -51,7 +51,7 @@ import schemacrawler.tools.executable.commandline.PluginCommandOption;
  * project POM) and the standard library &mdash; matching the constraints
  * imposed by the Phase 2 normalisation of {@code pom.xml}.</p>
  *
- * @author [@Loong Wan](https://github.com/loong10k)
+ * @author <a href="https://github.com/loong10k">Loong Wan</a>
  * @since 3.0.0
  * @see HiveDatabaseConnector
  * @see HiveDatabaseConnectorDriverMissingTest
